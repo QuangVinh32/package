@@ -1,5 +1,5 @@
 {
-  "name": "@yotech/demo-vinh-1",
+  "name": "demo-vinh",
   "version": "1.0.0",
   "description": "This is a helper package",
   "main": "index.js",
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/QuangVinh32/package.git"
   },
-  "keywords": ["Helper"],
+  "keywords": [
+    "Helper"
+  ],
   "author": "vinh",
   "license": "ISC",
   "bugs": {
