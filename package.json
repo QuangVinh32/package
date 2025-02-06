@@ -1,0 +1,20 @@
+{
+  "name": "@yotech/demo-vinh-1",
+  "version": "1.0.0",
+  "description": "This is a helper package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuangVinh32/package.git"
+  },
+  "keywords": ["Helper"],
+  "author": "vinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuangVinh32/package/issues"
+  },
+  "homepage": "https://github.com/QuangVinh32/package#readme"
+}
